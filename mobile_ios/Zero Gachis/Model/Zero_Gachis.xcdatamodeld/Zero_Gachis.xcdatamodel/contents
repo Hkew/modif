@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1810" systemVersion="11G63b" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Config" representedClassName="Config" syncable="YES">
+        <attribute name="isFirst" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="isIphone5" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <fetchedProperty name="fetchedProperty" optional="YES" syncable="YES">
+            <fetchRequest name="fetchedPropertyFetchRequest" entity="Config"/>
+        </fetchedProperty>
+    </entity>
+    <elements>
+        <element name="Config" positionX="160" positionY="192" width="128" height="104"/>
+    </elements>
+</model>
